@@ -21,8 +21,8 @@ I'm a passionate frontend Web Developer from India.
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="" target="_blank"> <img src="https://img.icons8.com/wired/64/4a90e2/c-plus-plus.png"/> </a>
-    <a href="" target="_blank"> <img src="https://img.icons8.com/c.png"/> </a>
+    <a href="https://en.cppreference.com/w/cpp/language" target="_blank"> <img src="https://img.icons8.com/wired/64/4a90e2/c-plus-plus.png"/> </a>
+    <a href="https://www.learn-c.org/" target="_blank"> <img src="https://img.icons8.com/c.png"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <!-- <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a>  -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
