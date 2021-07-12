@@ -1,4 +1,4 @@
-<!--  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" /> -->
+ <img align="right" alt="GIF" src="https://github.com/shahina-bano/shahina-bano/blob/main/hello.gif" width="500" height="320" />
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shahina</h1>
 I'm a passionate frontend Web Developer from India.
