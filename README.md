@@ -38,5 +38,5 @@ I'm a frontend Web Developer from India. Other than web development, I am passio
  ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/shahina-bano/github-readme-stats"><img alt="Shahina's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shahina-bano&theme=midnight-purple&show_icons=true" /></a> <br/>
+    <a href="https://github.com/shahina-bano/github-readme-stats"><img alt="Shahina's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shahina-bano&theme=midnight-purple&show_icons=true" /></a> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/shahina-bano/github-readme-stats"><img alt="Shahina's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahina-bano&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
