@@ -21,7 +21,7 @@ I'm a passionate frontend Web Developer from India.
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="" target="_blank"> <img src="https://www.freeiconspng.com/thumbs/c-logo-icon/c--logo-icon-1.png"/> </a>
+    <a href="" target="_blank"> <img src="https://img.icons8.com/wired/64/4a90e2/c-plus-plus.png"/> </a>
     <a href="" target="_blank"> <img src="https://img.icons8.com/c.png"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <!-- <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a>  -->
