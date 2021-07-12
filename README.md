@@ -33,3 +33,9 @@ I'm a passionate frontend Web Developer from India.
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
 </p>
+
+ ## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/shahina-bano/github-readme-stats"><img alt="Shahina's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shahina-baon&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/shahina-bano/github-readme-stats"><img alt="Shahina's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahina-bano&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
