@@ -22,7 +22,7 @@ I'm a passionate frontend Web Developer from India.
 
 <p align="left"> 
     <a href="" target="_blank"> <img src="https://www.freeiconspng.com/thumbs/c-logo-icon/c--logo-icon-1.png"/> </a>
-<!--     <a href="" target="_blank"> <img src="https://banner2.cleanpng.com/20180406/xgq/kisspng-logo-c-letter-letter-c-5ac700f5a7ff30.0580812215229913496881.jpg"/> </a> -->
+    <a href="" target="_blank"> <img src="https://img.icons8.com/c.png"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <!-- <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a>  -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
